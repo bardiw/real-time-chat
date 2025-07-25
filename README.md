@@ -78,7 +78,7 @@ Flask-SocketIO
 
 ---
 
-##🔒 Notes
+## 🔒 Notes
 - For simplicity, user data is stored in memory (dictionary) — not persistent.
 
 - Do not use this in production without adding:
