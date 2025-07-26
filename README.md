@@ -93,7 +93,7 @@ Flask-SocketIO
 
 ---
 
-##🧑‍💻 Author
-Bardia Javadi
-Computer Engineering student
-GitHub: @bardiw
+##🧑‍💻 Author    
+ Bardia Javadi    
+ Computer Engineering student   
+ GitHub: @bardiw
